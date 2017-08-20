@@ -1,0 +1,37 @@
+How did viewing a diff between two version help you spot the bug?
+Como a visualização de um diff entre duas versões ajuda a detectar o erro?
+
+
+Why should I?
+Por que eu deveria?
+
+
+This really helps?
+Isso realmente ajuda?
+
+You'll use this content for vc practice!
+Você usará esse conteúdo para prática vc!
+
+
+How?
+Como?
+
+
+One file per lesson
+Um arquivo por lição
+
+
+plain-text      texto-simples
+Not rich-text   texto não rico
+
+
+
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+Esta visualização vai direto ao ponto nas mudanças feitas no código. Reduz o tempo de detecção do erro.
+
+
+
+
+
+
